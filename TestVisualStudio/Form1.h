@@ -84,6 +84,10 @@ namespace TestVisualStudio {
 #pragma endregion
 	private: System::Void button1_Click(System::Object^  sender, System::EventArgs^  e) {
 				 MessageBox::Show("first modification");
+
+				 /*
+				 just added some comment here
+				 */
 			 }
 	};
 }
